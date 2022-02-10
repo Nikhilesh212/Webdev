@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+table{
+    margin:auto;
+}
+#first{
+    background:#70D6FF;
+    padding:50px;
+    padding-bottom: 200px;
+    border:5px solid white 
+}
+
+#s{
+    background:#FF70A6;
+    padding:50px;
+    padding-bottom: 200px;
+    border:5px solid white
+}
+#t{
+    background:#FF9770;
+    padding:50px;
+    padding-bottom: 200px;
+    border:5px solid white
+}
+#f{
+    background:#FFD670;
+    padding:50px;
+    padding-bottom: 200px;
+    border:5px solid white
+}
+#fi{
+    background:#E9FF70;
+    padding:50px;
+    padding-bottom: 200px;
+    border:5px solid white
+}

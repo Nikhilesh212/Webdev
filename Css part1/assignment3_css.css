@@ -1,0 +1,38 @@
+body{
+    background-color:#b0e0e6;
+}
+p{
+    background-color:#fffca5;
+}
+#p1{
+    background-color:#b0e0e6
+}
+#l1{
+    text-decoration:overline purple 2px;
+    color:purple;
+}
+#blog{
+    border:5px solid gray;
+    width:800px;
+    height:400px;
+
+}
+
+input
+{
+    border:2px solid rgb(144, 0, 0);
+}
+.feedback{
+    background-color:blue;
+    border:4px dashed yellow;
+}
+a{
+    color:red;
+}
+h1 {
+    border: 1px solid black;
+}
+h2{
+    color: purple;
+}
+
